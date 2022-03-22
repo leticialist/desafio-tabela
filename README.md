@@ -1,6 +1,6 @@
 # Primeiro desafio HTML/CSS Básico
 Primeiro desafio de HTML e CSS Básico do curso DevQuest.🎈<br>
-Um projeto simples de tabela.<br>
+Um projeto simples de tabela estilizada.<br>
 <img src="https://i.imgur.com/NYBWcpB.gif" width="500px">
 ## Tecnologias utilizadas
 <div style="display: inline_block">
