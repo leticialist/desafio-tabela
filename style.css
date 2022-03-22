@@ -1,0 +1,26 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 30px;
+}
+
+table {
+    background-color:#ffffff;   
+}
+
+table td {
+    background-color: #424250;
+}
+
+table th, td {
+    padding: 8px;
+    color: #ffffff;
+}
+
+.moda {
+    background-color: #BB86FC;
+}
+
+.casa {
+    background-color: #00C4B4
+    ;
+}
